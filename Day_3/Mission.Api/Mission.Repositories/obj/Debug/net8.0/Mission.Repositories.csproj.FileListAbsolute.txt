@@ -1,0 +1,17 @@
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.runtimeconfig.json
+C:\Users\Nitin Parmar\source\repos\Mission.Api\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.genruntimeconfig.cache
