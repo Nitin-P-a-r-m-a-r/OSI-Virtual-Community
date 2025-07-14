@@ -1,0 +1,12 @@
+# Ignore the bin folder inside mission.api
+mission.api/bin/
+
+# Ignore obj folders globally
+obj/
+
+# Ignore compiled files globally
+*.dll
+*.exe
+*.pdb
+*.user
+*.vspscc
